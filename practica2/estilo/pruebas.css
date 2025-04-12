@@ -1,0 +1,34 @@
+#bloq1{
+    left: 200px;
+}
+#bloq2{
+    bottom: 24px;
+    left: 400px;
+}
+#bloq3{
+    bottom: 48px;
+    left: 600px;
+}
+#bloq4{
+
+    bottom: 72px;
+    left: 800px;
+}
+#bloq5{
+    bottom: 96px;
+    left: 1000px;
+}
+
+#bloq1,#bloq2,#bloq3,#bloq4,#bloq5{
+    width: 10%;
+    
+    position: relative;
+
+    background-color: rgb(158, 189, 203);
+    border-color: rgb(158, 189, 203);
+    text-align: center;
+}
+
+#ids{
+    border-color: white;
+}
