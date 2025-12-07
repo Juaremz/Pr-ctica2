@@ -1,2 +1,2 @@
-# Practica2
+# Práctica2
 Mi escritora favorita Han Kang
